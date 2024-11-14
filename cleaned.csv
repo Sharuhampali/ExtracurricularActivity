@@ -1,0 +1,179 @@
+Reg_no,Gender,Tenth_marks,Eleventh_marks,Twelfth_marks,Income,Family_size ,Objective,Study_pattern,Time_spent_pattern,Extra_curricular_activity,Paused_resumed
+st101,Female,90.8,91.1,93.6,"Upper middle income ( 1,00,000 - 2,00,000)",3,"Yes, clear and specific.",4-6 days/week,3-4 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st102,Male,88.5,93.0,94.3,"Upper middle income ( 1,00,000 - 2,00,000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st103,Female,98.8,97.3,97.8,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",Everyday,2-3 hrs,Others,Paused and resumed due to academics.
+st104,Female,90.8,96.0,92.0,"High income ( >  2,00,000)",above 5,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Arts and Culture,Paused and resumed due to academics.
+st105,Male,90.6,91.0,96.0,"Upper middle income ( 1,00,000 - 2,00,000)",5,Not specific enough.,2-3 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st106,Female,96.0,98.17,98.8,"Middle income (50,000 - 1,00, 000)",5,"Yes, clear and specific.",Everyday,2-3 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st107,Female,97.8,99.0,99.0,"High income ( >  2,00,000)",5,Not specific enough.,Everyday,2-3 hrs,Fitness and wellness,Completely stopped because of academics.
+st108,Male,91.0,96.8,96.0,"Middle income (50,000 - 1,00, 000)",3,"Yes, clear and specific.",2-3 days/week,3-4 hrs,Fitness and wellness,Never had to pause or stop because of academics.
+st109,Male,96.6,96.3,96.3,"High income ( >  2,00,000)",5,"Yes, clear and specific.",Everyday,4-5 hrs,Hobbies and Interest,Paused and resumed due to academics.
+st110,Female,95.0,96.7,97.5,"Middle income (50,000 - 1,00, 000)",3,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st111,Male,96.5,97.6,98.33,"High income ( >  2,00,000)",above 5,Not specific enough.,4-6 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st112,Female,68.8,60.0,68.0,"High income ( >  2,00,000)",3,Not specific enough.,4-6 days/week,2-3 hrs,Academic and Intellectual,Paused and resumed due to academics.
+st113,Female,91.0,80.0,90.33,"Middle income (50,000 - 1,00, 000)",3,"Yes, clear and specific.",4-6 days/week,3-4 hrs,No extra curricular activities,
+st114,Female,94.5,80.0,89.0,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",Everyday,3-4 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st115,Female,97.16,97.6,98.8,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,3-4 hrs,No extra curricular activities,
+st116,Female,97.0,93.0,95.5,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,4-5 hrs,Arts and Culture,Paused and resumed due to academics.
+st117,Male,93.5,97.6,97.3,"High income ( >  2,00,000)",4,Not specific enough.,4-6 days/week,2-3 hrs,Hobbies and Interest,Paused and resumed due to academics.
+st118,Male,96.0,94.0,98.0,"High income ( >  2,00,000)",5,Not specific enough.,4-6 days/week,3-4 hrs,Hobbies and Interest,Completely stopped because of academics.
+st119,Male,97.5,94.0,95.0,"High income ( >  2,00,000)",3,"Yes, clear and specific.",4-6 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st120,Male,96.2,92.0,92.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,3-4 hrs,Fitness and wellness,Never had to pause or stop because of academics.
+st121,Female,95.6,96.3,98.0,"Middle income (50,000 - 1,00, 000)",4,Not specific enough.,4-6 days/week,4-5 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st122,Male,94.0,86.0,91.0,"High income ( >  2,00,000)",3,"Yes, clear and specific.",2-3 days/week,2-3 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st123,Female,99.52,98.0,99.0,"Lower middle income ( 25000 - 50,000 )",4,Not specific enough.,4-6 days/week,3-4 hrs,Fitness and wellness,Completely stopped because of academics.
+st124,Female,95.5,92.17,96.5,"Upper middle income ( 1,00,000 - 2,00,000)",4,Not specific enough.,2-3 days/week,2-3 hrs,Clubs,Paused and resumed due to academics.
+st125,Female,96.0,94.3,96.0,"Upper middle income ( 1,00,000 - 2,00,000)",3,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Fitness and wellness,Paused and resumed due to academics.
+st126,Female,98.0,99.33,97.67,"High income ( >  2,00,000)",3,"Yes, clear and specific.",1 day/week,2-3 hrs,Career and Technical,Never had to pause or stop because of academics.
+st127,Female,96.0,89.0,96.5,"High income ( >  2,00,000)",5,Not specific enough.,2-3 days/week,2-3 hrs,Hobbies and Interest,Paused and resumed due to academics.
+st128,Female,94.5,94.0,96.0,"Middle income (50,000 - 1,00, 000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Arts and Culture,Paused and resumed due to academics.
+st129,Female,89.3,76.8,86.4,"Upper middle income ( 1,00,000 - 2,00,000)",3,Not specific enough.,2-3 days/week,2-3 hrs,Others,Paused and resumed due to academics.
+st130,Male,98.2,95.5,97.1,"High income ( >  2,00,000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st131,Female,96.3,95.0,98.5,"Lower middle income ( 25000 - 50,000 )",above 5,Not specific enough.,Everyday,2-3 hrs,Others,Paused and resumed due to academics.
+st132,Female,94.3,98.5,97.2,"High income ( >  2,00,000)",4,"Yes, clear and specific.",Everyday,3-4 hrs,Hobbies and Interest,Completely stopped because of academics.
+st133,Female,97.0,94.33,94.33,"High income ( >  2,00,000)",5,"Yes, clear and specific.",Everyday,4-5 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st134,Male,96.6,98.83,98.5,"Upper middle income ( 1,00,000 - 2,00,000)",3,"Yes, clear and specific.",4-6 days/week,2-3 hrs,No extra curricular activities,
+st135,Male,98.6,94.0,99.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st136,Male,94.5,95.5,97.3,"High income ( >  2,00,000)",5,"Yes, clear and specific.",2-3 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st137,Female,75.0,60.0,68.0,"Upper middle income ( 1,00,000 - 2,00,000)",above 5,"Yes, clear and specific.",2-3 days/week,3-4 hrs,Fitness and wellness,Paused and resumed due to academics.
+st138,Male,96.0,99.0,98.0,"Upper middle income ( 1,00,000 - 2,00,000)",5,Not specific enough.,4-6 days/week,1-2 hrs,Arts and Culture,Paused and resumed due to academics.
+st139,Male,95.0,92.5,97.2,"Middle income (50,000 - 1,00, 000)",3,No clarity at all.,4-6 days/week,0-1 hr,Fitness and wellness,Paused and resumed due to academics.
+st140,Female,95.0,95.0,96.0,"High income ( >  2,00,000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Fitness and wellness,Completely stopped because of academics.
+st141,Male,97.8,99.2,98.2,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,1-2 hrs,Fitness and wellness,Never had to pause or stop because of academics.
+st142,Male,98.8,92.0,96.67,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Arts and Culture,Paused and resumed due to academics.
+st143,Female,90.6,93.0,96.6,"Upper middle income ( 1,00,000 - 2,00,000)",3,"Yes, clear and specific.",4-6 days/week,2-3 hrs,No extra curricular activities,
+st144,Male,94.2,96.0,98.5,"High income ( >  2,00,000)",3,Not specific enough.,4-6 days/week,3-4 hrs,Fitness and wellness,Paused and resumed due to academics.
+st145,Female,97.4,97.5,94.5,"High income ( >  2,00,000)",3,"Yes, clear and specific.",Everyday,above 5 hrs,Arts and Culture,Never had to pause or stop because of academics.
+st146,Male,96.0,97.2,97.2,Low income ( < 10000),above 5,"Yes, clear and specific.",Everyday,2-3 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st147,Male,94.88,85.0,90.88,"Middle income (50,000 - 1,00, 000)",4,Not specific enough.,Everyday,3-4 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st148,Female,98.0,97.0,96.0,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Fitness and wellness,Paused and resumed due to academics.
+st149,Male,99.52,99.0,99.33,"High income ( >  2,00,000)",4,"Yes, clear and specific.",Everyday,above 5 hrs,Fitness and wellness,Never had to pause or stop because of academics.
+st150,Female,99.2,96.5,95.16,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",4-6 days/week,1-2 hrs,Hobbies and Interest,Completely stopped because of academics.
+st151,Female,92.2,,92.0,"Upper middle income ( 1,00,000 - 2,00,000)",4,Not specific enough.,Everyday,2-3 hrs,Arts and Culture,Paused and resumed due to academics.
+st152,Female,96.0,91.0,96.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",2-3 days/week,0-1 hr,Arts and Culture,Paused and resumed due to academics.
+st153,Female,87.5,85.0,95.3,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Arts and Culture,Never had to pause or stop because of academics.
+st154,Female,98.8,75.0,82.0,"High income ( >  2,00,000)",3,"Yes, clear and specific.",Everyday,3-4 hrs,Arts and Culture,Paused and resumed due to academics.
+st155,Female,85.0,84.0,91.0,"Upper middle income ( 1,00,000 - 2,00,000)",4,"Yes, clear and specific.",Everyday,4-5 hrs,Hobbies and Interest,Never had to pause or stop because of academics.
+st156,Male,89.0,86.0,94.0,"High income ( >  2,00,000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Sports and Physical Activities,Never had to pause or stop because of academics.
+st157,Male,93.8,95.0,96.5,"Upper middle income ( 1,00,000 - 2,00,000)",5,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st158,Female,98.0,97.3,96.5,"Upper middle income ( 1,00,000 - 2,00,000)",3,"Yes, clear and specific.",2-3 days/week,2-3 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st159,Male,92.4,97.0,91.0,"High income ( >  2,00,000)",4,Not specific enough.,2-3 days/week,0-1 hr,Fitness and wellness,Completely stopped because of academics.
+st160,Male,89.8,96.0,90.0,"High income ( >  2,00,000)",5,"Yes, clear and specific.",4-6 days/week,1-2 hrs,Fitness and wellness,Paused and resumed due to academics.
+st161,Female,97.5,97.0,97.83,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,3-4 hrs,Hobbies and Interest,Completely stopped because of academics.
+st162,Male,93.5,88.5,92.5,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,3-4 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st163,Male,90.8,94.8,97.5,"High income ( >  2,00,000)",above 5,"Yes, clear and specific.",4-6 days/week,4-5 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st164,Male,83.0,84.0,71.0,"Upper middle income ( 1,00,000 - 2,00,000)",5,"Yes, clear and specific.",2-3 days/week,2-3 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st165,Male,83.5,70.0,73.3,"Lower middle income ( 25000 - 50,000 )",4,Not specific enough.,2-3 days/week,3-4 hrs,Career and Technical,Paused and resumed due to academics.
+st166,Female,94.5,75.5,87.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",Never,0-1 hr,Hobbies and Interest,Paused and resumed due to academics.
+st167,Male,93.6,90.5,85.8,"Upper middle income ( 1,00,000 - 2,00,000)",4,Not specific enough.,4-6 days/week,2-3 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st168,Male,93.1,89.5,93.1,"High income ( >  2,00,000)",above 5,Not specific enough.,1 day/week,2-3 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st169,Male,94.0,85.0,94.0,"Upper middle income ( 1,00,000 - 2,00,000)",4,Not specific enough.,2-3 days/week,1-2 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st170,Male,91.0,75.0,77.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Fitness and wellness,Paused and resumed due to academics.
+st171,Male,95.0,93.0,96.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",Never,0-1 hr,Clubs,Paused and resumed due to academics.
+st172,Female,93.4,98.9,96.8,"High income ( >  2,00,000)",5,"Yes, clear and specific.",Everyday,3-4 hrs,Sports and Physical Activities,Paused and resumed due to academics.
+st173,Male,94.0,82.0,89.0,"Middle income (50,000 - 1,00, 000)",4,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Sports and Physical Activities,Never had to pause or stop because of academics.
+st174,Female,95.52,92.83,96.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",2-3 days/week,0-1 hr,Hobbies and Interest,Completely stopped because of academics.
+st175,Male,92.33,90.33,90.0,"High income ( >  2,00,000)",5,"Yes, clear and specific.",4-6 days/week,2-3 hrs,Career and Technical,Paused and resumed due to academics.
+st176,Male,92.0,94.5,93.0,"High income ( >  2,00,000)",3,"Yes, clear and specific.",1 day/week,0-1 hr,Fitness and wellness,Never had to pause or stop because of academics.
+st177,Male,91.4,91.0,96.0,"High income ( >  2,00,000)",4,"Yes, clear and specific.",Everyday,above 5 hrs,Sports and Physical Activities,Completely stopped because of academics.
+st178,Female,92.8,89.0,94.5,"High income ( >  2,00,000)",4,Not specific enough.,4-6 days/week,2-3 hrs,Fitness and wellness,Paused and resumed due to academics.
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
